@@ -89,4 +89,5 @@ ol li::marker {
 }
 .attribution a {
   color: #314181;
+  text-decoration: underline;
 }
