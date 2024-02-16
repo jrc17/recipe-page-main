@@ -17,8 +17,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Website](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/jrc17/recipe-page-main)
+- Live Site URL: [Website](https://jrc17.github.io/recipe-page-main/)
 
 ## My process
 
@@ -81,4 +81,4 @@ ol li::marker {
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jrc17)
+- Frontend Mentor - [@jrc17](https://www.frontendmentor.io/profile/jrc17)
