@@ -67,7 +67,7 @@ ol li::marker {
 }
 @media screen and (min-width: 48rem) {
   body {
-    background-color: hsl(30, 54%, 90%);
+    background-color: #f3e6d8;
     max-width: 49.375rem;
   }
   .d-flex {
@@ -86,7 +86,8 @@ ol li::marker {
 .attribution {
   font-size: 11px;
   text-align: center;
+  font-family: "Courier New", Courier, monospace;
 }
 .attribution a {
-  color: hsl(14, 45%, 36%);
+  color: #314181;
 }
